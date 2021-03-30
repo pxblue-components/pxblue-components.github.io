@@ -1,2 +1,0 @@
-#root,body,html{height:100%;margin:0;padding:0}.rotateMe{-webkit-animation:spin 2.5s linear infinite;animation:spin 2.5s linear infinite}@-webkit-keyframes spin{to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}@keyframes spin{to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}
-/*# sourceMappingURL=main.ce597ead.chunk.css.map */
